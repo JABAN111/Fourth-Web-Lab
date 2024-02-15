@@ -1,0 +1,6 @@
+[submodule "fourthWebLabFront"]
+	path = fourthWebLabFront
+	url = https://github.com/JABAN111/fourthWebLabFront.git
+[submodule "fourthWebLabSpring"]
+	path = fourthWebLabSpring
+	url = https://github.com/JABAN111/fourthWebLabSpring.git
